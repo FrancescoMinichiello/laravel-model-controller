@@ -1,4 +1,4 @@
-<footer class="bg-secondary p-4 text-white vh-100">
+<footer class="bg-secondary p-4 text-white">
     <div class="container-fluid d-flex">
         <h1>
             Footer...
